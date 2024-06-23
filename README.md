@@ -36,7 +36,8 @@ In the minting logic of your SPL project (as per Lesson Three), make the necessa
 
 Test the entire setup by transferring or minting your SPL token to one of your Phantom accounts. Then, use the UI you've created to mint NFTs. The users should be able to mint NFTs by paying in the SPL token you've set up.
 
-### By User HaranMS
+### By User ahsan saleem
+
 my candy machine details
  - `splTokenAccount`: "B3pySVUHAc6zeLys4ejtByAgn1SncqTf4nJ6bHCFvNHr"
    - `splToken`: "Hd2uAyH6WSbMRriqp8cGQER7AbiYe7rvnG5puCMnBLqw"
